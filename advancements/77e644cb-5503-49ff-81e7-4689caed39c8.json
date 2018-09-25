@@ -590,8 +590,8 @@
       "minecraft:magma_cube": "2018-09-16 08:14:02 +0900",
       "minecraft:spider": "2018-08-15 20:20:13 +0900",
       "minecraft:zombie": "2018-05-21 22:26:43 +0900",
-      "minecraft:creeper": "2018-08-15 23:08:43 +0900",
       "minecraft:drowned": "2018-08-19 18:25:56 +0900",
+      "minecraft:creeper": "2018-08-15 23:08:43 +0900",
       "minecraft:zombie_villager": "2018-09-01 08:04:30 +0900",
       "minecraft:slime": "2018-08-23 15:40:17 +0900"
     },
@@ -1074,9 +1074,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cold_ocean": "2018-08-15 17:22:20 +0900",
-      "minecraft:forest": "2018-05-21 22:32:56 +0900",
-      "minecraft:badlands_plateau": "2018-05-22 00:23:43 +0900",
       "minecraft:mountains": "2018-08-15 17:46:52 +0900",
+      "minecraft:badlands_plateau": "2018-05-22 00:23:43 +0900",
+      "minecraft:forest": "2018-05-21 22:32:56 +0900",
       "minecraft:desert_hills": "2018-05-22 00:33:23 +0900",
       "minecraft:deep_cold_ocean": "2018-08-15 18:00:33 +0900",
       "minecraft:desert": "2018-05-21 23:58:47 +0900",
@@ -1088,8 +1088,8 @@
       "minecraft:savanna_plateau": "2018-05-22 00:40:29 +0900",
       "minecraft:beach": "2018-05-21 20:58:52 +0900",
       "minecraft:dark_forest": "2018-05-21 23:57:48 +0900",
-      "minecraft:river": "2018-05-21 20:59:18 +0900",
       "minecraft:lukewarm_ocean": "2018-08-15 17:42:44 +0900",
+      "minecraft:river": "2018-05-21 20:59:18 +0900",
       "minecraft:birch_forest_hills": "2018-05-21 23:57:11 +0900",
       "minecraft:wooded_mountains": "2018-08-15 17:47:35 +0900",
       "minecraft:wooded_hills": "2018-05-21 23:37:31 +0900",
